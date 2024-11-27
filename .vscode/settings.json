@@ -1,0 +1,5 @@
+{
+    "markdown.marp.themes": [
+        "https://raw.githubusercontent.com/renuo/lightning-talks/refs/heads/main/renuo.css"
+    ]
+}
