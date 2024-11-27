@@ -616,6 +616,8 @@ end
 
 # Thanks!
 
+### https://github.com/renuo/postgres-null-bytes-talk
+
 ---
 
 # Sources
